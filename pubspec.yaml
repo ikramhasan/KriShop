@@ -1,0 +1,100 @@
+name: krishop
+description: A new Flutter project.
+
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  flutter_bloc: ^8.0.0
+  freezed_annotation: ^1.0.0
+  firebase_core: ^1.10.2
+  firebase_auth: ^3.3.0
+  google_sign_in: ^5.2.1
+  cloud_firestore: ^3.1.1
+  json_annotation: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^1.0.0
+  freezed: ^1.0.0
+  json_serializable: ^6.1.1
+  build_runner: ^2.1.5
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
